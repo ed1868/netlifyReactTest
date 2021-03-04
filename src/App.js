@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn to upload react with AI Nomads
         </a>
       </header>
     </div>
